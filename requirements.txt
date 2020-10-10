@@ -54,5 +54,4 @@ psycopg2==2.8.5
 pycurl==7.43.0.2
 pycurl==7.43.0.2
 django-grappelli
-django-taggit
 django-simple-metatags
