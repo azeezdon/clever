@@ -52,4 +52,4 @@ Pillow==7.2.0
 psutil==5.4.8
 psycopg2==2.8.5
 pycurl==7.43.0.2
-grappelli
+django-grappelli 2.14.2
