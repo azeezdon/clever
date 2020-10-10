@@ -47,7 +47,6 @@ INSTALLED_APPS = [
     'mptt',
     'autoslug',
     'taggit',
-    'meta',
     'metatags',
 
 ]
