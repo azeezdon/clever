@@ -51,10 +51,7 @@ pep8==1.7.1
 Pillow==7.2.0
 psutil==5.4.8
 psycopg2==2.8.5
-<<<<<<< HEAD
-grappelli
 pycurl==7.43.0.2
-=======
 pycurl==7.43.0.2
 django-grappelli
->>>>>>> 1df21fafe11d8a403b4ab36648e25e8d9ec32891
+django-taggit

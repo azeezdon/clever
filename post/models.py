@@ -8,8 +8,6 @@ from django.urls import reverse
 from django.db.models.signals import pre_save
 from django.utils import timezone
 from taggit.managers import TaggableManager
-from meta.models import ModelMeta
-
 
 # Create your models here.
 
