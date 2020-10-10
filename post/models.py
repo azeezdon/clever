@@ -12,7 +12,7 @@ from taggit.managers import TaggableManager
 # Create your models here.
 
 
-class Post(ModelMeta, models.Model):
+class Post(models.Model):
     class NewManager(models.Manager):
         def get_queryset(self):
             return super().get_queryset().filter(status='published')
