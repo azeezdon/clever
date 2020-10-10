@@ -9,16 +9,6 @@ from django.db.models import Q
 from taggit.models import Tag
 from django.shortcuts import render
 from django.template.loader import render_to_string
-from blog.meta_gen import meta_keywords
-
-this_template = "base.html"
-
-
-def tabs(request):
-    return render (this_template,
-                              {'title': "Page Name", 'keys': meta_keywords(render_to_string(this_template))})
-
-
 # Create your views here.
 
 
