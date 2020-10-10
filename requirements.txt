@@ -1,6 +1,5 @@
 asgiref==3.2.10
 autopep8==1.5.3
-Django==3.0.8
 django-js-asset==1.2.2
 django-mptt==0.11.0
 django-six==1.0.4
@@ -52,5 +51,10 @@ pep8==1.7.1
 Pillow==7.2.0
 psutil==5.4.8
 psycopg2==2.8.5
+<<<<<<< HEAD
 grappelli
 pycurl==7.43.0.2
+=======
+pycurl==7.43.0.2
+django-grappelli
+>>>>>>> 1df21fafe11d8a403b4ab36648e25e8d9ec32891
